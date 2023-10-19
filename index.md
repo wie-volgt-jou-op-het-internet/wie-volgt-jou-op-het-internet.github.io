@@ -20,3 +20,6 @@ Discover our somewhat strange computer with counters, speakers and lights that k
 - x: [http://192.168.88.100:7379/SET/x/1/EX/5](http://192.168.88.100:7379/SET/x/1/EX/5)
 - tiktok: [http://192.168.88.100:7379/SET/tiktok/1/EX/5](http://192.168.88.100:7379/SET/tiktok/1/EX/5)
 - apple [http://192.168.88.100:7379/SET/apple/1/EX/5](http://192.168.88.100:7379/SET/apple/1/EX/5)
+
+# Network
+![](wie-volgt-jou-op-het-internet.png)
