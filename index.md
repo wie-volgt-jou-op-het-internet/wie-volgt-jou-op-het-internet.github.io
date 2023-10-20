@@ -7,7 +7,7 @@ Discover our somewhat strange computer with counters, speakers and lights that k
 1. Connect the ethernet cable to your laptop
 2. Open Google Chrome
 3. Disable all ad blockers
-4. Install the [Webhook on Request extension](https://chrome.google.com/webstore/detail/webhook-on-request/omjifoffgbnhdgcmeepmgopiopkbafio), open the options, and paste the contents of [config.json](https://raw.githubusercontent.com/wie-volgt-jou-op-het-internet/browser/main/config.json).
+4. Install the [Webhook on Request extension](https://chrome.google.com/webstore/detail/webhook-on-request/omjifoffgbnhdgcmeepmgopiopkbafio), open the options, and paste the contents of [config.json](https://raw.githubusercontent.com/wie-volgt-jou-op-het-internet/laptop/main/config.json).
 5. [Enable](http://192.168.88.100:7379/SET/enable/1) the application.   
 
 # Technical information
