@@ -4,4 +4,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 github:
   is_project_page: true
-  repository_url: https://github.com/orgs/wie-volgt-jou-op-het-internet/repositories
+  repository_url: https://github.com/wie-volgt-jou-op-het-internet
