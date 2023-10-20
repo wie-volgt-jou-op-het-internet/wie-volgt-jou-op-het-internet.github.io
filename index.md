@@ -4,11 +4,11 @@ Let's face it: privacy doesn't (really) exist on the Internet. Everything you do
 Discover our somewhat strange computer with counters, speakers and lights that kick in when you are tracked by Google, Facebook, Amazon and others.
 
 # Set-up
-- Connect the ethernet cable to your laptop
-- Open Google Chrome
-- Disable all ad blockers
-- Install the Webhook on Request extension, open the options, and paste the contents of [config.json](https://raw.githubusercontent.com/wie-volgt-jou-op-het-internet/browser/main/config.json).
-- [Enable](http://192.168.88.100:7379/SET/enable/1) the application.   
+1. Connect the ethernet cable to your laptop
+2. Open Google Chrome
+3. Disable all ad blockers
+4. Install the Webhook on Request extension, open the options, and paste the contents of [config.json](https://raw.githubusercontent.com/wie-volgt-jou-op-het-internet/browser/main/config.json).
+5. [Enable](http://192.168.88.100:7379/SET/enable/1) the application.   
 
 # Technical information
 - enable: [http://192.168.88.100:7379/SET/enable/1](http://192.168.88.100:7379/SET/enable/1)
